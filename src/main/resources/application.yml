@@ -1,0 +1,5 @@
+azure:
+  blob:
+    connection-string: ${CONNECTION}
+    name: ${NAME}
+    endpoint: ${ENDPOINT}
